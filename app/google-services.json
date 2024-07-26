@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "942744367385",
+    "firebase_url": "https://hoardfirebasetest.firebaseio.com",
+    "project_id": "hoardfirebasetest",
+    "storage_bucket": "hoardfirebasetest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942744367385:android:de78f45966a8f9845d9588",
+        "android_client_info": {
+          "package_name": "com.ilia.hoardfirebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942744367385-f22jk3qnd2q7vo1omkruiq6bge87uka0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCurCSb6XS0b80SdZZWlSkFBOn21zQi2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942744367385-f22jk3qnd2q7vo1omkruiq6bge87uka0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
